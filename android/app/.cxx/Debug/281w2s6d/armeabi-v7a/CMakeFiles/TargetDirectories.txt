@@ -1,0 +1,2 @@
+G:/Projects/App Projects/pneumonia_diagnostic_app/android/app/.cxx/Debug/281w2s6d/armeabi-v7a/CMakeFiles/edit_cache.dir
+G:/Projects/App Projects/pneumonia_diagnostic_app/android/app/.cxx/Debug/281w2s6d/armeabi-v7a/CMakeFiles/rebuild_cache.dir

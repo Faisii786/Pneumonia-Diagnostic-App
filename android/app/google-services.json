@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1037494444225",
+    "project_id": "csera-9cb70",
+    "storage_bucket": "csera-9cb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037494444225:android:2d8d9a64af69235bc8f440",
+        "android_client_info": {
+          "package_name": "com.example.pneumonia_diagnostic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVbwM4UpIewuQMgx28vGjDjceEsTS9zb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826029524954",
+    "project_id": "pneumoniadiagnosticapp",
+    "storage_bucket": "pneumoniadiagnosticapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826029524954:android:330e809f0f6976b62822e3",
+        "android_client_info": {
+          "package_name": "com.example.pneumoniaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73O-jdov6Ew_S3dpM5TgVEneo9aP6cio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

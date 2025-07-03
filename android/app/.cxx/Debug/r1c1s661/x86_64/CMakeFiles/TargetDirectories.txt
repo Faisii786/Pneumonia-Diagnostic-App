@@ -1,0 +1,2 @@
+C:/All extra/app/pneumonia_diagnostic_app/android/app/.cxx/Debug/r1c1s661/x86_64/CMakeFiles/edit_cache.dir
+C:/All extra/app/pneumonia_diagnostic_app/android/app/.cxx/Debug/r1c1s661/x86_64/CMakeFiles/rebuild_cache.dir
