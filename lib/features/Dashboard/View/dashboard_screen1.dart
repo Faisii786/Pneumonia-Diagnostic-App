@@ -4,7 +4,7 @@ import 'package:image_picker/image_picker.dart';
 import 'package:pneumonia_diagnostic_app/Common/Widgets/custom_text.dart';
 import 'package:pneumonia_diagnostic_app/Common/Widgets/profile_avatar.dart';
 import 'package:pneumonia_diagnostic_app/features/Analysis/View/analysis_screen.dart';
-import 'package:pneumonia_diagnostic_app/features/Profile/View/profile_screen.dart';
+import 'package:pneumonia_diagnostic_app/features/Settings/View/settings_screen.dart';
 
 class DashboardScreen extends StatefulWidget {
   final String userName;
@@ -145,12 +145,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     title: 'Settings',
                     color: Colors.purple,
                     onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (context) => const ProfileScreen(),
-                        ),
-                      );
+                      Get.to(() => SettingsScreen());
                     },
                   ),
                 ],
