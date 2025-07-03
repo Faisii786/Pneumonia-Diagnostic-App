@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:get/get.dart';
 import 'package:pneumonia_diagnostic_app/features/Auth/Controller/auth_controller.dart';
 import 'package:pneumonia_diagnostic_app/features/Auth/View/Sign%20in/signin_screen.dart';
@@ -74,9 +75,10 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
             const SizedBox(height: 50),
             // Loading indicator
-            const CircularProgressIndicator(
-              valueColor: AlwaysStoppedAnimation<Color>(Colors.white),
-            ),
+            SpinKitFadingCircle(
+              color: Colors.white,
+              size: 40,
+            )
           ],
         ),
       ),
